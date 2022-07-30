@@ -70,7 +70,16 @@ Developer, UK</h3>
 
 <h4 align="center">Current Projects</h4>
 
-<h2 align="center">Coming Soon</h2>
+[DJI Tello Drone Control](https://github.com/lm93547/tello-front-end-v2)
+- Typescript
+- Create React App
+- Websockets
+- Chakra UI
+
+[DJI Tello Drone Control Backend](https://github.com/lm93547/tello-backend)
+- NodeJS
+- Websockets
+- CLI command tool & UI command tool in conjunction with the [Tello Front End](https://github.com/lm93547/tello-front-end-v2)
 
 
 ---
