@@ -6,16 +6,10 @@
 <h3 align="center">Software
 Developer, UK</h3>
 
----
-
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lm93547&rank=SS,S,AAA,A,B&theme=nord&column=-1" alt="lm93547-trophy" /></a> </p>
-<br>
-
----
-
 <h4 align="center">About Me</h4>
 
+- Self-taught developer hailing from Manchester, UK
+- Front end focused, full stack developer
 - Currently working on web3 & blockchain technologies
 - Always interested in Geospatial technologies
 
