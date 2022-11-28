@@ -70,6 +70,12 @@ Developer, UK</h3>
 
 <h4 align="center">Current Projects</h4>
 
+[Avalanche Staking Node Map](https://avalanche-node-map.vercel.app/)
+- Typescript
+- Vite
+- LeafletJS
+- Blockchain / Crypto
+
 [DJI Tello Drone Control](https://github.com/lm93547/tello-front-end-v2)
 - Typescript
 - Create React App
