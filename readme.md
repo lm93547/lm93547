@@ -57,6 +57,12 @@ Developer, UK</h3>
 - React
 - Subgraph
 
+[Cross Pollinations](https://www.crosspollinations.net/editor)
+- Typescript
+- React
+- Vite
+- FabricJS
+
 [Avalanche Staking Node Map](https://avalanche-node-map.vercel.app/)
 - Typescript
 - Vite
