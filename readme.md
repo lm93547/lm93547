@@ -1,7 +1,7 @@
 <h3 align="center">Welcome</h3>
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Lucas%Martin&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Lucas&#32;Martin&fontSize=90&animation=twinkling)
 
 <h3 align="center">Software
 Developer, UK</h3>
