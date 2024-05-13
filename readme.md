@@ -51,6 +51,12 @@ Developer, UK</h3>
 
 <h4 align="center">Current Projects</h4>
 
+[Struct Finance](https://app.struct.fi/markets)
+- Typescript
+- NextJS
+- React
+- Subgraph
+
 [Avalanche Staking Node Map](https://avalanche-node-map.vercel.app/)
 - Typescript
 - Vite
