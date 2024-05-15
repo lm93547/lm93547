@@ -10,7 +10,7 @@ Developer, UK</h3>
 
 - Self-taught developer hailing from Manchester, UK
 - Front end focused, full stack developer
-- Currently working on web3 & blockchain technologies
+- Currently working on fintech technologies
 - Always interested in Geospatial technologies
 
 ---
