@@ -8,7 +8,7 @@ Developer, UK</h3>
 
 <h4 align="center">About Me</h4>
 
-- Self-taught developer hailing from Manchester, UK
+- Self-taught developer hailing from Manchest, UK
 - Front end focused, full stack developer
 - Currently working on fintech technologies
 - Always interested in Geospatial technologies
