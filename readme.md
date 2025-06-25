@@ -10,7 +10,7 @@ Developer, UK</h3>
 
 - Self-taught developer hailing from Manchester, UK
 - Front end focused, full stack developer
-- Currently working on fintech technologies
+- Currently working on [NeuWave](www.neuwave.co.uk)
 - Always interested in Geospatial technologies
 
 ---
